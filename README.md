@@ -1,4 +1,4 @@
-## Hello World! 👋
+## Hello 👋
 
 <a href="https://twitter.com/8aran_">
   <img align="left" alt="Baran's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
