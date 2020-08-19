@@ -11,7 +11,7 @@
 </a>
 <br />
 
-### I'm Baran 🦸‍♂️
-- Actively learning web development.
-- Computer Science student. 
-- Currently working on recreating my website.
+## What I'm up to:
+- Learning web dev.
+- Being a CS student. 
+- Working on recreating a personal website.
