@@ -14,4 +14,3 @@
 ## What I'm up to:
 - Learning web dev.
 - Being a CS student. 
-- Working on recreating a personal website.
