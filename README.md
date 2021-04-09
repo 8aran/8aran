@@ -1,11 +1,16 @@
 ## Hey 👋
-
+<p>
+  Links:
 <a href="https://twitter.com/BaranCodes">
   Twitter
-</a>
+</a> · 
 <a href="https://www.linkedin.com/in/baran-babur/">
   LinkedIn
+</a> ·
+<a href="https://baran.fun">
+    Personal Website
 </a>
+  </p>
 <br />
 
 ## What I'm up to:
