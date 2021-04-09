@@ -10,10 +10,9 @@
 <a href="https://baran.fun">
     Personal Website
 </a>
-  </p>
-<br />
+</p>
 
-## What I'm up to:
+### What I'm up to:
 - Learning web dev.
 - Being a CS student. 
 - Trying to solve katas on CodeWars.
